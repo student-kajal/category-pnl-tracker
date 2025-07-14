@@ -64,7 +64,7 @@ Final output is exported as CSV and Excel.
 
 ## 🖼️ Sample Output Preview
 
-![Category-Level Summary Output](output_preview.png)
+![Category-Level Summary Output](https://github.com/student-kajal/category-pnl-tracker/blob/main/image.png)
 
 📁 [Click to Download Excel Output](https://github.com/student-kajal/category-pnl-tracker/blob/main/category_pnl_summary.csv)
 
